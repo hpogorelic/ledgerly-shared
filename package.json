@@ -1,0 +1,8 @@
+{
+  "name": "ledgerly-shared",
+  "version": "1.0.0",
+  "description": "shared validation and money helpers for ledgerly services",
+  "type": "module",
+  "main": "index.js",
+  "license": "MIT"
+}
