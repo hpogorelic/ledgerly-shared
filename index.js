@@ -1,2 +1,2 @@
-export { validateEntry } from './validate.js'
+export { validateEntry, CURRENCIES } from './validate.js'
 export { toCents, fromCents, formatMoney } from './money.js'
